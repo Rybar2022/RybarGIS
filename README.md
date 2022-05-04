@@ -18,6 +18,7 @@ Mac: 
 https://nodesource.com/blog/installing-nodejs-tutorial-mac-os-x/
 
 3. Download from github repository the latest project:
+4. https://github.com/Rybar2022/RybarGIS.git
 
 4. Open the project in visual studio code
 File -> Open Folder -> RybarGIS
