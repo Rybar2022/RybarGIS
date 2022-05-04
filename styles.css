@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white; 
+    color: black;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 15vw 85vw;
+    grid-template-rows: 100vh;
+}
+
+.sideBar {
+    margin: 15px;
+}
+
